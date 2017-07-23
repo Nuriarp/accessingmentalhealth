@@ -1,43 +1,15 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
-ul.posts li {
-    list-style: none;
-}
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+   </head>
+  <body>
+   </body>
+</html>
